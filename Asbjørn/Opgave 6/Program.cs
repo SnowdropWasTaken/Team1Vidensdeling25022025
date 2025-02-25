@@ -14,6 +14,7 @@
             bool isLessThanOrEqual = i <= 1;
 
             Console.WriteLine("Is equal: " + isEqual + ", " + "Is not equal: " + isNotEqual + ", " + "Is greater: " + isGreaterThan + ", " + "Is less: " + isLessThan + ", " + "Is greater or equal: " + isGreaterThanOrEqual + ", " + "Is less or equal: " + isLessThanOrEqual);
+            Console.ReadLine();
         }
     }
 }
