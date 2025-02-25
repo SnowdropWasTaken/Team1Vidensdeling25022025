@@ -81,7 +81,7 @@
         static void Opgave10()
         {
             Console.Write("Vælg en ugedag (1-7): ");
-            int i = Convert.ToInt32(Console.ReadLine());
+            int i = int.Parse(Console.ReadLine());
             switch (i)
             {
                 case 1:
@@ -115,7 +115,7 @@
         static void Opgave11()
         {
             Console.Write("Vælg en måned (1-12): ");
-            int i = Convert.ToInt32(Console.ReadLine());
+            int i = int.Parse(Console.ReadLine());
             switch (i)
             {
                 case 1:
@@ -188,32 +188,32 @@
 
         static void Opgave15()
         {
-            int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
             int sum = 0;
 
             for (int i = 1; i <= 5; i++)
             {
                 sum += i;
             }
-            Console.WriteLine("The sum of the first 5 numbers is: " + sum);
+            Console.WriteLine("Summen af de første fem tal er: " + sum);
             sum = 0;
 
             foreach (int number in numbers)
             {
                 sum += number;
             }
-            Console.WriteLine("The sum of the numbers is: " + sum);
+            Console.WriteLine("Den totale sum er: " + sum);
         }
 
         static void Opgave16()
         {
             Console.Write("Indtast et tal for at beregne fakultet: ");
             int number = int.Parse(Console.ReadLine());
-            long factorial = CalculateFactorial(number);
-            Console.WriteLine("Fakultet af " + number + ", er " + factorial);
+            long fakultet = CalcFakultet(number);
+            Console.WriteLine("Fakultet af " + number + ", er " + fakultet);
         }
 
-        static long CalculateFactorial(int number)
+        static long CalcFakultet(int number)
         {
             if (number < 0)
                 throw new ArgumentException("Tallet skal være positivt.");

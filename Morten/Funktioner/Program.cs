@@ -22,9 +22,9 @@ namespace Funktioner
         {
             Console.WriteLine("Angiv to tal du vil addere." + "\n");
             Console.Write("Tal 1: ");
-            x = Convert.ToInt32(Console.ReadLine());
+            x = int.Parse(Console.ReadLine());
             Console.Write("Tal 2: ");
-            y = Convert.ToInt32(Console.ReadLine());
+            y = int.Parse(Console.ReadLine());
             int result = x + y;
             Console.Write("Summen er: ");
             Console.WriteLine(result);
@@ -49,7 +49,7 @@ namespace Funktioner
             int antalVokaler = 0;
             var vokaler = new HashSet<object>{ 'a', 'e', 'i', 'o', 'u' };
 
-            Console.WriteLine("Enter a Sentence");
+            Console.WriteLine("Indtast sætning: ");
             string userInput = Console.ReadLine().ToLower();
 
             for (int i = 0; i < userInput.Length; i++)
@@ -74,9 +74,9 @@ namespace Funktioner
             Console.ReadKey();
         } // Opgave 20
 
-        static int Opgave20udregning(int side)
+        static int Opgave20udregning(int length)
         {
-            return side * side;
+            return length * length;
         } // Opgave 20
         static double Opgave20udregning(double radius)
         {
@@ -93,9 +93,9 @@ namespace Funktioner
             Console.ReadKey();
         } // Opgave 21
 
-        static int Opgave21udregning(int side)
+        static int Opgave21udregning(int length)
         {
-            return 6 * side * side;
+            return 6 * length * length;
         } //Opgave 21
         static double Opgave21udregning(double radius, double height)
         {
@@ -104,21 +104,21 @@ namespace Funktioner
 
         static void Opgave22()
         {
-            int intSide = 5;
+            int intLength = 5;
             int intHeight = 5;
-            double doubleSide = 4.9;
+            double doubleLength = 4.9;
             double doubleHeight = 4.9;
-            Console.WriteLine("Trianglens rumfang er (int): " + Opgave22udregning(intSide, intHeight));
-            Console.WriteLine("Trianglens rumfang er (double): " + Opgave22udregning(doubleSide, doubleHeight));
+            Console.WriteLine("Trianglens rumfang er (int): " + Opgave22udregning(intLength, intHeight));
+            Console.WriteLine("Trianglens rumfang er (double): " + Opgave22udregning(doubleLength, doubleHeight));
             Console.ReadKey();
         }
-        static double Opgave22udregning(int baseL, int height) // Opgave 22
+        static double Opgave22udregning(int length, int height) // Opgave 22
         {
-            return 0.5 * baseL * height;
+            return 0.5 * length * height;
         }
-        static double Opgave22udregning(double baseL, double height) // Opgave 22
+        static double Opgave22udregning(double length, double height) // Opgave 22
         {
-            return 0.5 * baseL * height;
+            return 0.5 * length * height;
         }
 
     }

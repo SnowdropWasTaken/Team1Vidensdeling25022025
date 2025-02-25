@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KontrolStruktur")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe9ab979c03b8bd6902e4687a0b0c4e87b38f082")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2264670df410d64f3170857251f8b576a3d2c29")]
 [assembly: System.Reflection.AssemblyProductAttribute("KontrolStruktur")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KontrolStruktur")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
