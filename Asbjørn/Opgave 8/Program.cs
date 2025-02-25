@@ -15,7 +15,7 @@
             {
             Console.WriteLine("Du er bestået");
             }
-
+            Console.ReadLine();
 
         }
     }

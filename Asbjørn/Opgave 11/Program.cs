@@ -49,8 +49,9 @@
                     Console.WriteLine("Ugyldigt tal");
                     break;
             }
+            Console.ReadLine();
 
 
-            }
+        }
     }
 }

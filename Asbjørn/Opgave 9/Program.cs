@@ -28,6 +28,7 @@
             {
                 Console.WriteLine("Ikke skudår");
             }
+            Console.ReadLine();
         }
     }
 }

@@ -38,6 +38,7 @@ namespace Opgave_3
             {
                 Console.WriteLine("Du er undervægtig");
             }
+            Console.ReadLine();
 
         }
     }

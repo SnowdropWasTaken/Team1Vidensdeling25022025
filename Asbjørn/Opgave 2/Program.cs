@@ -24,8 +24,9 @@
             {
                 Console.WriteLine("Ugyldigt input");
             }
+            Console.ReadLine();
         }
-
+        
         static double CelsiusToFahrenheit(double celsius)
         {
             return (celsius * 9 / 5) + 32;
@@ -35,5 +36,7 @@
         {
             return (fahrenheit - 32) * 5 / 9;
         }
+        
+
     }
 }

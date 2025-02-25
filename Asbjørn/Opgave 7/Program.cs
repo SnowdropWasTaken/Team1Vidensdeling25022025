@@ -19,7 +19,7 @@
             {
                 Console.WriteLine("Tallet er negativt");
             }
-            
+            Console.ReadLine();
         }
     }
 }

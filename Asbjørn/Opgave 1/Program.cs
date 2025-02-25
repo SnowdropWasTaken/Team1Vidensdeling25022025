@@ -12,6 +12,7 @@
             bool isStudent = true;
 
             System.Console.WriteLine("Age: " + age + ", " + "Height: " + height + ", " + "Weight: " + weight + ", " + "Initial: " + initial + ", " + "Name: " + name + ", " + "Is Student: " + isStudent);
+            Console.ReadLine();
         }
     }
 }

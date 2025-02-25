@@ -10,6 +10,7 @@
             int quotient = 10 / 5;
             int remainder = 12 % 2;
             Console.Write("Sum: " + sum + ", " + "Difference: " + difference + ", " + "Product " + product + ", " + "Quotient: " + quotient + ", " + "Remainder: " + remainder);
+            Console.ReadLine();
         }
     }
 }

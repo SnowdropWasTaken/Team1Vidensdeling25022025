@@ -11,6 +11,7 @@
             double omkreds = 2 * double.Pi * radius;
 
             Console.WriteLine("Area: " + areal + ", " + "Circumference: " + omkreds);
+            Console.ReadLine();
         }
     }
 }
