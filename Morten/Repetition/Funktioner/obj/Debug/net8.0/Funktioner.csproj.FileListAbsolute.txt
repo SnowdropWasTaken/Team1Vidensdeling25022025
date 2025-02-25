@@ -1,0 +1,14 @@
+X:\DMOoF25\Projekter\Funktioner\bin\Debug\net8.0\Funktioner.exe
+X:\DMOoF25\Projekter\Funktioner\bin\Debug\net8.0\Funktioner.deps.json
+X:\DMOoF25\Projekter\Funktioner\bin\Debug\net8.0\Funktioner.runtimeconfig.json
+X:\DMOoF25\Projekter\Funktioner\bin\Debug\net8.0\Funktioner.dll
+X:\DMOoF25\Projekter\Funktioner\bin\Debug\net8.0\Funktioner.pdb
+X:\DMOoF25\Projekter\Funktioner\obj\Debug\net8.0\Funktioner.GeneratedMSBuildEditorConfig.editorconfig
+X:\DMOoF25\Projekter\Funktioner\obj\Debug\net8.0\Funktioner.AssemblyInfoInputs.cache
+X:\DMOoF25\Projekter\Funktioner\obj\Debug\net8.0\Funktioner.AssemblyInfo.cs
+X:\DMOoF25\Projekter\Funktioner\obj\Debug\net8.0\Funktioner.csproj.CoreCompileInputs.cache
+X:\DMOoF25\Projekter\Funktioner\obj\Debug\net8.0\Funktioner.dll
+X:\DMOoF25\Projekter\Funktioner\obj\Debug\net8.0\refint\Funktioner.dll
+X:\DMOoF25\Projekter\Funktioner\obj\Debug\net8.0\Funktioner.pdb
+X:\DMOoF25\Projekter\Funktioner\obj\Debug\net8.0\Funktioner.genruntimeconfig.cache
+X:\DMOoF25\Projekter\Funktioner\obj\Debug\net8.0\ref\Funktioner.dll
