@@ -1,0 +1,15 @@
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\bin\Debug\net8.0\Opgave 15.exe
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\bin\Debug\net8.0\Opgave 15.deps.json
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\bin\Debug\net8.0\Opgave 15.runtimeconfig.json
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\bin\Debug\net8.0\Opgave 15.dll
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\bin\Debug\net8.0\Opgave 15.pdb
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\obj\Debug\net8.0\Opgave 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\obj\Debug\net8.0\Opgave 15.AssemblyInfoInputs.cache
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\obj\Debug\net8.0\Opgave 15.AssemblyInfo.cs
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\obj\Debug\net8.0\Opgave 15.csproj.CoreCompileInputs.cache
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\obj\Debug\net8.0\Opgave 15.sourcelink.json
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\obj\Debug\net8.0\Opgave 15.dll
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\obj\Debug\net8.0\refint\Opgave 15.dll
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\obj\Debug\net8.0\Opgave 15.pdb
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\obj\Debug\net8.0\Opgave 15.genruntimeconfig.cache
+C:\Users\Asbjo\Source\Repos\Team1Vidensdeling25022025\Asbjørn\Opgave 15\obj\Debug\net8.0\ref\Opgave 15.dll
