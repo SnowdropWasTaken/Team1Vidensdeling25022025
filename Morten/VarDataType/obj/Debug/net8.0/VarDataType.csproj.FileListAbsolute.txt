@@ -1,0 +1,14 @@
+X:\DMOoF25\Projekter\VarDataType\obj\Debug\net8.0\VarDataType.GeneratedMSBuildEditorConfig.editorconfig
+X:\DMOoF25\Projekter\VarDataType\obj\Debug\net8.0\VarDataType.AssemblyInfoInputs.cache
+X:\DMOoF25\Projekter\VarDataType\obj\Debug\net8.0\VarDataType.AssemblyInfo.cs
+X:\DMOoF25\Projekter\VarDataType\obj\Debug\net8.0\VarDataType.csproj.CoreCompileInputs.cache
+X:\DMOoF25\Projekter\VarDataType\bin\Debug\net8.0\VarDataType.exe
+X:\DMOoF25\Projekter\VarDataType\bin\Debug\net8.0\VarDataType.deps.json
+X:\DMOoF25\Projekter\VarDataType\bin\Debug\net8.0\VarDataType.runtimeconfig.json
+X:\DMOoF25\Projekter\VarDataType\bin\Debug\net8.0\VarDataType.dll
+X:\DMOoF25\Projekter\VarDataType\bin\Debug\net8.0\VarDataType.pdb
+X:\DMOoF25\Projekter\VarDataType\obj\Debug\net8.0\VarDataType.dll
+X:\DMOoF25\Projekter\VarDataType\obj\Debug\net8.0\refint\VarDataType.dll
+X:\DMOoF25\Projekter\VarDataType\obj\Debug\net8.0\VarDataType.pdb
+X:\DMOoF25\Projekter\VarDataType\obj\Debug\net8.0\VarDataType.genruntimeconfig.cache
+X:\DMOoF25\Projekter\VarDataType\obj\Debug\net8.0\ref\VarDataType.dll
