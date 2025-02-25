@@ -1,0 +1,14 @@
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\bin\Debug\net8.0\Opgave 3.exe
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\bin\Debug\net8.0\Opgave 3.deps.json
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\bin\Debug\net8.0\Opgave 3.runtimeconfig.json
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\bin\Debug\net8.0\Opgave 3.dll
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\bin\Debug\net8.0\Opgave 3.pdb
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\obj\Debug\net8.0\Opgave 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\obj\Debug\net8.0\Opgave 3.AssemblyInfoInputs.cache
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\obj\Debug\net8.0\Opgave 3.AssemblyInfo.cs
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\obj\Debug\net8.0\Opgave 3.csproj.CoreCompileInputs.cache
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\obj\Debug\net8.0\Opgave 3.dll
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\obj\Debug\net8.0\refint\Opgave 3.dll
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\obj\Debug\net8.0\Opgave 3.pdb
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\obj\Debug\net8.0\Opgave 3.genruntimeconfig.cache
+C:\Users\Asbjo\Code\Vidensdeling\Opgave 3\obj\Debug\net8.0\ref\Opgave 3.dll
